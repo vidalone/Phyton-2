@@ -25,15 +25,28 @@ def funcion ():
     x = 8
     print(x)
 
+<<<<<<< HEAD
 print (variable)
 
 funcion()
+=======
+# print (variable)
+
+# funcion()
+>>>>>>> ae81d39b0b44df388d2d6d8c41bd62a0c98c772e
 
 # print(keyword.kwlist) # Muestra las palabras clave que no se pueden usar en Python
 
 print('¡Hola Mundo!')
 
+<<<<<<< HEAD
 #print("¡Hola Mundo!")
 
 #print("Esto es todo", end=" ")
 #print("amigos!")
+=======
+print("¡Hola Mundo!")
+
+print("Esto es todo", end=" ")
+print("amigos!")
+>>>>>>> ae81d39b0b44df388d2d6d8c41bd62a0c98c772e
